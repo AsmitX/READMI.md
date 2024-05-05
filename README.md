@@ -1,4 +1,4 @@
-<img width=100% title="YOUR ASMIT" alt="YOUR ASMIT" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ANONYMOUS-🔰-U7P4L&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="YOUR ASMIT" alt="YOUR ASMIT" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your Asmit&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ASMIT+BENZA;" />
 </p><br>
