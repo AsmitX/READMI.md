@@ -1,4 +1,4 @@
-<img width=100% title="YOUR ASMIT" alt="YOUR ASMIT" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Your Asmit&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
+<img width=100% title="AsmitXInformation" alt="AsmitXInformation" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=AsmitXinformation&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45"/>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ASMIT+BENZA;" />
 </p><br>
@@ -98,45 +98,3 @@ func main() {
     <a href="https://github.com/AsmitX">
           <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsmitX&theme=dark" />
     <img width="40%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsmitX&theme=react-dark&bg_color=20232a&hide_border=true" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Contribution Snake -->
-<p align="center"><img src="./assets/images/github-contribution-grid-snake.svg"></p>
-
-<details>
-<summary>  Working on </summary>
-<br>
-<h3 align="center"><b>Pinned Repositories ♨️</b></h3>
-<br>
-
-<a href="https://github.com/AsmitX/HACKING-LAB">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AsmitX&repo=HACKING-LAB&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
-<a href="https://github.com/AsmitX/WIFI-HACKING">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AsmitX&repo=WIFI-HACKING&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/AsmitX/TERMUX-SETUP">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AsmitX&repo=TERMUX-SETUP&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/AsmitX/FB-BRUTE">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=AsmitX&repo=FB-BRUTE&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-</p>
-</details>
-
-<!-- Footer -->
-
-<img src="./assets/images/Footer.jpg">
